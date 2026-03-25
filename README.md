@@ -31,7 +31,7 @@ Preview of the dataset used for analysis:
 
 Distribution of students living below the poverty line across schools:
 
-![Poverty Distribution](screenshots/analysis.png)
+![Poverty vs English Learners](screenshots/insights.png)
 
 ---
 
@@ -39,8 +39,7 @@ Distribution of students living below the poverty line across schools:
 
 Scatter plot showing relationship between poverty levels and percentage of English learners:
 
-![Poverty vs English Learners](screenshots/insights.png)
-
+![Poverty Distribution](screenshots/analysis.png)
 ---
 
 ## Key Findings

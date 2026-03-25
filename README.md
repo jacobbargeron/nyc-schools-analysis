@@ -54,11 +54,13 @@ Scatter plot showing relationship between poverty levels and percentage of Engli
 
 ---
 
-## Business Interpretation
+## Insights & Implications
 
-After analyzing visitor behavior, engagement metrics, and demographic data for NYC public schools, clear patterns emerge. Schools with higher poverty rates tend to have more English learners, suggesting overlapping challenges in underserved communities.
+After analyzing demographic and performance data for NYC public schools, clear patterns emerge. Schools with higher poverty rates tend to have more English learners, indicating overlapping challenges in underserved communities.
 
-These findings highlight the need for targeted educational support, particularly in language assistance programs, to better serve students in high-poverty areas.
+These findings highlight the need for targeted educational support, particularly language assistance programs, to better serve students in high-poverty areas.
+
+These insights can help guide resource allocation and policy decisions within NYC public schools.
 
 ---
 
